@@ -1,7 +1,7 @@
-word = "Holberton"
+word = "school"
 word_first_3 = word [:3]
-word_last_2 = word  [7:9]
-middle_word = word [1:8]
+word_last_2 = word  [4:5]
+middle_word = word [1:5]
 
 print("First 3 letters: {}".format(word_first_3))
 print("Last 2 letters: {}".format(word_last_2))
